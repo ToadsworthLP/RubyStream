@@ -1,0 +1,11 @@
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\bin\Debug\RubyStream.exe.config
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\bin\Debug\RubyStream.exe
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\bin\Debug\RubyStream.pdb
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.Properties.Resources.resources
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.SettingsForm.resources
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.csproj.GenerateResource.Cache
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.exe
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.pdb
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.CounterForm.resources
+c:\users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.TimerForm.resources
+C:\Users\manue\documents\visual studio 2015\Projects\RubyStream\RubyStream\obj\Debug\RubyStream.csprojResolveAssemblyReference.cache
